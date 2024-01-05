@@ -1,0 +1,152 @@
+﻿[['Vivid Hues', 'pre'], ['Phlebotomist', 'pre']]
+市场数量：3
+['5chaos', '12chaos', '2exalted']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Steady Torment', 'pre']]
+市场数量：0
+[]
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Wasting Affliction', 'pre']]
+市场数量：3
+['20chaos', '30chaos', '30chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Haemorrhage', 'pre']]
+市场数量：6
+['5chaos', '13chaos', '14chaos', '20chaos', '30chaos', '1exalted']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Brush with Death', 'pre']]
+市场数量：0
+[]
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Vile Reinvigoration', 'pre']]
+市场数量：2
+['5chaos', '10chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Disorienting Wounds', 'pre']]
+市场数量：15
+['5chaos', '10chaos', '10chaos', '15chaos', '20chaos', '20chaos', '21chaos', '24chaos', '33chaos', '50chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Circling Oblivion', 'pre']]
+市场数量：4
+['10chaos', '14chaos', '40chaos', '65chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Flow of Life', 'pre']]
+市场数量：2
+['29chaos', '50chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Blood Artist', 'pre']]
+市场数量：4
+['12chaos', '15chaos', '17chaos', '25chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Compound Injury', 'pre']]
+市场数量：9
+['5chaos', '10chaos', '15chaos', '20chaos', '20chaos', '30chaos', '45chaos', '50chaos', '60chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Exposure Therapy', 'pre']]
+市场数量：5
+['3chaos', '3chaos', '5chaos', '30chaos', '30chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Student of Decay', 'pre']]
+市场数量：3
+['6chaos', '10chaos', '30chaos']
+--------------------------------------------------
+[['Vivid Hues', 'pre'], ['Brewed for Potency', 'pre']]
+市场数量：7
+['5chaos', '7chaos', '10chaos', '10chaos', '50chaos', '80chaos', '1exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Compound Injury', 'pre']]
+市场数量：12
+['10chaos', '10chaos', '10chaos', '10chaos', '20chaos', '1exalted', '1exalted', '1exalted', '1.5exalted', '1.5exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Phlebotomist', 'pre']]
+市场数量：2
+['10chaos', '1.5exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Blood Artist', 'pre']]
+市场数量：3
+['15chaos', '41chaos', '66chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Wasting Affliction', 'pre']]
+市场数量：1
+['1exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Steady Torment', 'pre']]
+市场数量：4
+['10chaos', '10chaos', '10chaos', '50chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Haemorrhage', 'pre']]
+市场数量：9
+['15chaos', '25chaos', '30chaos', '45chaos', '45chaos', '50chaos', '60chaos', '2exalted', '2exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Flow of Life', 'pre']]
+市场数量：1
+['60chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Exposure Therapy', 'pre']]
+市场数量：7
+['10chaos', '10chaos', '10chaos', '12chaos', '30chaos', '40chaos', '100chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Brush with Death', 'pre']]
+市场数量：2
+['25chaos', '1exalted']
+--------------------------------------------------
+[['Rend', 'pre'], ['Vile Reinvigoration', 'pre']]
+市场数量：5
+['10chaos', '20chaos', '20chaos', '30chaos', '100chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Circling Oblivion', 'pre']]
+市场数量：11
+['10chaos', '10chaos', '10chaos', '10chaos', '10chaos', '10chaos', '20chaos', '30chaos', '35chaos', '60chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Brewed for Potency', 'pre']]
+市场数量：8
+['9chaos', '10chaos', '10chaos', '24chaos', '25chaos', '35chaos', '80chaos', '90chaos']
+--------------------------------------------------
+[['Rend', 'pre'], ['Student of Decay', 'pre']]
+市场数量：3
+['30chaos', '45chaos', '80chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Compound Injury', 'pre']]
+市场数量：13
+['2chaos', '4.5chaos', '5chaos', '7chaos', '8chaos', '10chaos', '10chaos', '10chaos', '20chaos', '20chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Blood Artist', 'pre']]
+市场数量：8
+['10chaos', '10chaos', '15chaos', '20chaos', '20chaos', '35chaos', '40chaos', '50chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Phlebotomist', 'pre']]
+市场数量：3
+['5chaos', '10chaos', '15chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Wasting Affliction', 'pre']]
+市场数量：1
+['30chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Steady Torment', 'pre']]
+市场数量：9
+['5chaos', '7chaos', '8chaos', '12chaos', '16chaos', '20chaos', '20chaos', '30chaos', '30chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Haemorrhage', 'pre']]
+市场数量：3
+['20chaos', '40chaos', '44chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Flow of Life', 'pre']]
+市场数量：5
+['10chaos', '15chaos', '20chaos', '70chaos', '88chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Exposure Therapy', 'pre']]
+市场数量：13
+['3chaos', '4chaos', '5chaos', '5chaos', '10chaos', '10chaos', '20chaos', '20chaos', '20chaos', '20chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Brush with Death', 'pre']]
+市场数量：2
+['15chaos', '40chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Vile Reinvigoration', 'pre']]
+市场数量：6
+['5chaos', '10chaos', '10chaos', '20chaos', '48chaos', '110chaos']
+--------------------------------------------------
+[['Disorienting Wounds', 'pre'], ['Circling Oblivion', 'pre']]
+市场数量：16
+['3chaos', '5chaos', '5chaos', '5chaos', '6chaos', '10chaos', '10chaos', '10chaos', '10chaos', '10chaos']
+--------------------------------------------------
